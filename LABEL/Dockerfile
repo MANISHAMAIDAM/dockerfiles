@@ -1,2 +1,4 @@
 FROM almalinux:9
-LABEL author: Manisha
+LABLE author="MANISHA" \
+      course= "Devops" \
+      description= "This is docker file practice" 
